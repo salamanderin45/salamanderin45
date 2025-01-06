@@ -1,6 +1,7 @@
 ## Hi, I'm Aldi Iskandar 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salamanderin45&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salamanderin45&hide_progress=true)
 <!--
 **salamanderin45/salamanderin45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
