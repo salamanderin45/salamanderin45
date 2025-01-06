@@ -1,7 +1,27 @@
 ## Hi, I'm Aldi Iskandar 👋
 
+### About Me
+- 🔭 Currently working on [my projects](https://aldiiskandar.com/)
+- 🌱 Always learning new technologies, especially in **Node.js**, **Vue.js**, and **Next.js**
+- 💬 Ask me about web development, front-end, or back-end topics!
+- 📫 How to reach me: [Contact Me](https://aldiiskandar.com/#contact)
+- ⚡ Fun fact: I love creating pixel art games and exploring creative designs.
+
+---
+
+### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salamanderin45&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salamanderin45&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salamanderin45&layout=compact&theme=tokyonight)
+
+---
+
+### Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=internet-explorer&logoColor=white&style=for-the-badge)](https://aldiiskandar.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:youremail@example.com)
+
+---
+
 <!--
 **salamanderin45/salamanderin45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
