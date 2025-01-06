@@ -21,6 +21,11 @@
 
 ---
 
+### Profile Views 👁️‍🗨️
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=salamanderin45)
+
+---
+
 <!--
 **salamanderin45/salamanderin45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
