@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Aldi Iskandar 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salamanderin45&show_icons=true&theme=tokyonight)
 
