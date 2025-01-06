@@ -1,53 +1,61 @@
-## Hi, I'm Aldi Iskandar 👋
+## Hi, I'm Aldi Iskandar 👋  
 
-### About Me
-- 🔭 Currently working on [my projects](https://aldiiskandar.com/)
-- 🌱 Always learning new technologies, especially in **Node.js**, **Vue.js**, and **Next.js**
-- 💬 Ask me about web development, front-end, or back-end topics!
-- 📫 How to reach me: [Contact Me](https://aldiiskandar.com/#contact)
-- ⚡ Fun fact: I love creating pixel art games and exploring creative designs.
+### About Me  
+Hello! I'm Aldi, a passionate software engineer with over 7 years of experience in front-end and back-end development. I love crafting seamless web experiences and exploring creative technologies.  
 
----
-### Top Technologies 🚀
-Here are some of the technologies I work with:
+- 🔭 Currently building amazing projects on [my portfolio](https://aldiiskandar.com/)  
+- 🌱 Continuously learning cutting-edge technologies like **Node.js**, **Vue.js**, and **Next.js**  
+- 💬 Always open to discussing web development, from front-end frameworks to back-end architectures  
+- 📫 Feel free to [reach out](https://aldiiskandar.com/#contact) for collaboration or inquiries  
+- ⚡ Fun fact: I'm not just a developer—I also enjoy creating pixel art games!  
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+---  
 
----
-### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salamanderin45&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salamanderin45&layout=compact&theme=tokyonight)
+### Top Technologies 🚀  
+Here are some of the tools and technologies I specialize in:  
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)  
 
-### Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aldi-iskandar-092911156/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=internet-explorer&logoColor=white&style=for-the-badge)](https://aldiiskandar.com)
+---  
 
----
+### GitHub Stats 📊  
+Check out my GitHub stats:  
 
-### Profile Views 👁️‍🗨️
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=salamanderin45)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salamanderin45&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salamanderin45&layout=compact&theme=tokyonight)  
 
----
+---  
 
-<!--
-**salamanderin45/salamanderin45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Let's Connect! 🌐  
+I'm always excited to connect with fellow developers and enthusiasts. Let's collaborate and grow together!  
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aldi-iskandar-092911156/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=internet-explorer&logoColor=white&style=for-the-badge)](https://aldiiskandar.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---  
+
+### Profile Views 👁️‍🗨️  
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=salamanderin45)  
+
+---  
+
+<!--  
+**salamanderin45/salamanderin45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
+
+Here are some ideas to get you started:  
+
+- 🔭 I’m currently working on ...  
+- 🌱 I’m currently learning ...  
+- 👯 I’m looking to collaborate on ...  
+- 🤔 I’m looking for help with ...  
+- 💬 Ask me about ...  
+- 📫 How to reach me: ...  
+- 😄 Pronouns: ...  
+- ⚡ Fun fact: ...  
+-->  
